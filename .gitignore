@@ -271,10 +271,14 @@ jd_redPacket.js
 # 早起福利
 jd_zqfl.py
 #禁用重复任务
-jd_identicalnew.py
+#jd_identicalnew.py
 
 #京东极速版红包
 jd_speed_red.js
+#京东金融灯火元宵
+jd_bt6666draw.py
+
+
 ########过期活动##############
 
 # 运动户外盲盒
@@ -330,7 +334,8 @@ jd_super_redrain.js
 jd_lzclient.js
 #自动评价
 jd_Evaluation.py
-
+#幸福小店
+jd_xfxd.js
 
 jd_anjia.js
 jd_senbeans.js
@@ -341,6 +346,8 @@ jd_jinggengjcq_*.js
 jd_rush_*.js
 #重复的评价
 jd_evaluation.js
+#开卡有礼
+jd_openCard.py
 #发财大赢家助力
 jd_fcdyj.js
 #jd_card_collecting_common_enc.js
